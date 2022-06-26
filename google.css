@@ -1,0 +1,132 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/2159457.jpg");
+background-repeat: no-repeat, repeat;
+background-size: cover;
+
+
+}
+.grid{
+    color:white;
+    margin-top: 14px;
+    padding-left: 10%;
+}
+.profile{
+    color: #fff;
+   
+    width:40px;
+    border-radius: 50%;
+    background-color: blueviolet;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top{
+    margin-right: 15px;
+    margin-bottom: 80px;
+    
+}
+.top-nav{
+    margin: 20px 10px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+h4{
+    font-size: 15px;
+    margin-top: 15%;
+
+}
+h1{
+    font-weight: 400;
+    font-size: 100px;
+    color:#fff
+  }
+.google{
+    margin-bottom: 10px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-box{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+   height: 40px;
+   margin-top: 10px;
+}
+input{
+    border : none;
+    outline: none;
+    width: 90%;
+}
+input:focus{
+    border : none;
+}
+.tab{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+.col{
+    color: #fff;
+    font-size: larger;
+}
+.icon{
+    width: 60px;
+    height: 60px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 20px;
+    cursor: pointer;
+}
+img{
+    width: 25px;
+    }
+.new-tab{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.new-icon{
+    margin-top: 32px;
+    margin: 40px 15px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+.link{
+    margin-top: 60px;
+    margin-left: 20px;
+    
+}
+a{
+    color: #fff;
+}
+
+.fa-link{
+    margin-top: 20px;
+    color: #fff;
+    transform: rotate(45deg);
+}
+.pencill{
+    color: #fff;
+    margin-top: 80px;
+    cursor: pointer;
+}
+.bottom-flex{
+display: flex;
+justify-content: space-between;
+}
